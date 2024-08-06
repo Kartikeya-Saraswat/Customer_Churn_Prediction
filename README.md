@@ -14,6 +14,8 @@ Selected raw historical data for solving the problem and building predictive mod
 This covers the development and performance validation of the customers' churn prediction models with various machine learning algorithms.<br>
 #### Deployment and monitoring
 This is the last stage in the life cycle of the development of machine learning for churn rate forecasts. Here, the most suitable model is sent into production. It can be either integrated into existing software or become a core for a newly built application.<br>
-The application to be deployed will function via operational use cases: Online prediction: This use case generates predictions on a one-by-one basis for each data point (in the context of this article, a customer). Batch prediction: This use is for generating predictions for a set of observations instantaneously.<br>
+The application to be deployed will function via operational use cases:<br>
+Online prediction: This use case generates predictions on a one-by-one basis for each data point (in the context of this article, a customer).<br>
+Batch prediction: This use is for generating predictions for a set of observations instantaneously.<br>
 
 ![me](https://github.com/Kartikeya-Saraswat/Customer_Churn_Prediction/blob/main/streamlit-app.gif)
