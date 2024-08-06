@@ -11,4 +11,4 @@ Modeling and testing: This covers the development and performance validation of 
 Deployment and monitoring: This is the last stage in the life cycle of the development of machine learning for churn rate forecasts. Here, the most suitable model is sent into production. It can be either integrated into existing software or become a core for a newly built application.
 The application to be deployed will function via operational use cases: Online prediction: This use case generates predictions on a one-by-one basis for each data point (in the context of this article, a customer). Batch prediction: This use is for generating predictions for a set of observations instantaneously.
 
-![me]https://github.com/Kartikeya-Saraswat/Customer_Churn_Prediction/blob/main/streamlit-app.gif
+![me](https://github.com/Kartikeya-Saraswat/Customer_Churn_Prediction/blob/main/streamlit-app.gif)
